@@ -12,3 +12,7 @@ function draw() {
   noStroke();
 circle(mouseX, mouseY, 50);
 }
+
+function mousePressed() {
+  background(0);
+}
